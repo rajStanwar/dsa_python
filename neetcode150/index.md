@@ -4,3 +4,4 @@
 
 1. Concatenation of Array
 2. Two Sum
+3. Contains Duplicate [Arrays and Hashing]
