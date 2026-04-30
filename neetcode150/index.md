@@ -6,3 +6,4 @@
 2. Two Sum
 3. Contains Duplicate [Arrays and Hashing]
 4. Is Anagram [Arrays and Hashing]
+5. Valid Palindrom [Two Pointers]
